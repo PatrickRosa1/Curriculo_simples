@@ -1,0 +1,141 @@
+body{   
+    background-color: #b0c4de;
+    opacity: 0.9;
+}
+
+.menu{
+    width: 100%;
+    height: 60px;
+    background-color: #b0c4de;
+}
+
+.container{
+    margin-left: 12%;
+    margin-right: 12%;
+    padding: 50px;
+    background-color: cornsilk;
+}
+
+#Foto {
+    display: block;
+    margin-left: auto;
+    margin-right: auto ;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    position: relative;        
+    }
+
+
+.container h1{
+    text-align: center;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-stretch: condensed
+}
+
+.container h5{
+    text-align: center;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-stretch: condensed;
+}
+
+.container_1{
+    margin-left: 12%;
+    margin-right: 12%;
+   background-color: cornsilk;
+}
+
+ .container_1 h4{
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-stretch: condensed;
+    margin-left: 2%;
+}
+
+.container_1 img{
+    margin-left: 8%;
+    display: block;
+    width: 110px;
+    height: 110px;     
+}
+
+.container_2{
+    
+    margin-left: 12%;
+    margin-right: 12%;
+    background-color: cornsilk;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-stretch: condensed
+}
+
+.container_2 ul{
+    margin-left: 5%;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-stretch: condensed
+ 
+    
+}
+.container_2 li{
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-stretch: condensed
+}
+
+.container_2  h4{
+    margin-left: 2%;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-stretch: condensed
+}
+
+.sociais{
+    display: block;
+    margin-left: auto;
+    margin-right: auto ;
+    border-radius: 50%;
+    position: relative;
+    width: 50px;
+    height: 50px;
+}
+
+#ancora{ 
+    display: block;
+    margin-left: auto;
+    margin-right: auto ;
+    position: relative;
+    width: 50px;
+    height: 50px;
+    opacity : 0.3;
+}
+
+.img_end {
+    width: 40px;
+    height: 40px;
+    
+}
+
+.end{
+    margin-left: 12%;
+    margin-right: 12%;
+    padding: 50px;
+    background-color: cornsilk;
+}
+
+.end h2{
+ text-align: center;
+ font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+ font-stretch: condensed
+}
+
+.end p{
+    letter-spacing: 1px;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-stretch: condensed
+    
+}
+a:link, a:visited, a:active {
+	text-decoration:none;
+	}
+ 
+    a:hover {text-decoration: underline;
+        color:#000;
+        font-size:150%;
+        }
+    
